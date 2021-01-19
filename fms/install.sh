@@ -1,5 +1,6 @@
 #!/bin/bash
-set -x
+
+# stop on all errors
 set -e
 
 repo="https://github.com/VulcanClimateModeling/fv3gfs-fortran.git"
