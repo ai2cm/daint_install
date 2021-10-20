@@ -5,7 +5,7 @@ set -e
 
 main_repo="https://github.com/GridTools/gridtools"
 dev_repo="https://github.com/eddie-c-davis/gridtools"
-dev_branch="python-sid-adapter-buffer"
+dev_branch="launch-kernel-streams"
 
 work_dir=`pwd`
 exit_status=0
